@@ -1,0 +1,63 @@
+{
+    "name": "Cherry Byte",
+    "short_name": "Abel",
+    "description": "Best invoicing and accounting software.",
+    "categories": [
+        "finance",
+        "business"
+    ],
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "orientation": "any",
+    "android_package_name": "thecherrybyte.com",
+    "prefer_related_applications": true,
+    "splash": {
+        "640x1136":  "public/img/abel_construction_favicon.png",
+        "750x1334":  "public/img/abel_construction_favicon.png",
+        "828x1792":  "public/img/abel_construction_favicon.png",
+        "1125x2436": "public/img/abel_construction_favicon.png",
+        "1242x2208": "public/img/abel_construction_favicon.png",
+        "1242x2688": "public/img/abel_construction_favicon.png",
+        "1536x2048": "public/img/abel_construction_favicon.png",
+        "1668x2224": "public/img/abel_construction_favicon.png",
+        "1668x2388": "public/img/abel_construction_favicon.png",
+        "2048x2732": "public/img/abel_construction_favicon.png"
+    },
+    "icons": [
+        {
+            "src": "public/img/abel_construction_favicon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "purpose": "maskable",
+            "src": "public/img/abel_construction_favicon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "public/img/abel_construction_favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "purpose": "maskable",
+            "src": "public/img/abel_construction_favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "public/img/pwa/screenshot-dashboard.png",
+            "sizes": "1932x1394",
+            "type": "image/png"
+        },
+        {
+            "src": "public/img/pwa/screenshot-invoice.png",
+            "sizes": "2748x1986",
+            "type": "image/png"
+        }
+    ]
+}
